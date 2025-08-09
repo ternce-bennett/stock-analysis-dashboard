@@ -11,11 +11,16 @@ It is built using **Python** and **Streamlit**, with live data sourced from the 
 
 ---
 
-## ✨ Features
-- 📈 **Live price updates** from Yahoo Finance.
-- 📉 **Historical trend analysis** for any date range.
-- 📊 **Moving Average Crossover** visualizations to identify potential buy/sell signals.
-- 🖥 **Interactive dashboard** with dropdown filters and user controls.
+## 📌 Features
+
+| Feature                     | Description                                                  |
+|-----------------------------|--------------------------------------------------------------|
+| 📅 Date Range Picker         | Select custom date ranges to analyze historical stock data. |
+| 📈 Price Comparison Chart    | Interactive line chart comparing NIO and Tesla stocks.      |
+| 📊 Key Performance Indicators (KPIs) | Average daily return and volatility for both stocks.     |
+| 🔁 Volume Traded             | Line charts showing daily traded volume.                     |
+| 📉 Daily Returns             | Visualize and compare daily return distributions.            |
+| ✅ Real-time Data            | Fetches updated market data from Yahoo Finance via yfinance. |
 
 ---
 
@@ -25,8 +30,8 @@ It is built using **Python** and **Streamlit**, with live data sourced from the 
 ---
 
 ## 🛠 Tech Stack
-- **Language:** Python 3.10
-- **Libraries:** Pandas, NumPy, Matplotlib, Streamlit, YFinance
+- **Language:** Python 3.10  
+- **Libraries:** Pandas, NumPy, Matplotlib, Streamlit, YFinance  
 - **Tools:** Git, VS Code
 
 ---
